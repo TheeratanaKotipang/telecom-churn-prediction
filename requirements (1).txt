@@ -1,6 +1,4 @@
 streamlit
-pandas
+tensorflow
+Pillow
 numpy
-scikit-learn
-joblib
-plotly
